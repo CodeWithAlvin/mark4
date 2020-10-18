@@ -1,3 +1,4 @@
 # mark4
-First functions file added
-Lateron more will be adeed
+*Introduce more functionality
+*Stability reduce
+*Base for Mark 5 (with major changes)
