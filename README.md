@@ -1,4 +1,4 @@
 # mark4
-*Introduce more functionality*
-*Stability reduce*
-*Base for Mark 5 (with major changes)*
+*Introduce more functionality*<br>
+*Stability reduce*<br>
+*Base for Mark 5 (with major changes)*<br>
